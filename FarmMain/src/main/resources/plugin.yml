@@ -1,0 +1,31 @@
+name: FarmVille
+version: '${project.version}'
+main: me.ethan.farmvill.FarmVill
+api-version: 1.19
+authors: [ Me ]
+description: No
+commands:
+  E:
+    description: "essentials commands."
+  Sell:
+    description: "Sell command."
+  Bal:
+    description: "Check player balance."
+  Spawn:
+    description: "Teleport player to spawn."
+  Weather:
+    description: "Set client weather."
+  Shop:
+    description: "Shop command."
+  Set2XSell:
+    description: "Set 2x sell."
+  Activate:
+    description: "Activates teleportation device."
+  Gmc:
+    description: "Set Gamemode to creative."
+  Gms:
+    description: "set Gamemode to survival."
+  Gma:
+    description: "set Gamemode to adventure."
+  Gmsp:
+    description: "set Gamemode to spectator"
