@@ -1,0 +1,44 @@
+name: FarmVille
+version: '1.0-SNAPSHOT'
+main: me.ethan.farmvill.FarmVill
+api-version: 1.19
+authors: [ Me ]
+description: No
+commands:
+  E:
+    description: "essentials commands."
+  Sell:
+    description: "Sell command."
+  Bal:
+    description: "Check player balance."
+  Spawn:
+    description: "Teleport player to spawn."
+  Weather:
+    description: "Set client weather."
+  SetSellPrompt:
+    description: "Disable sell message in chat!"
+  FCShop:
+    description: "FarmCoin Shop command."
+  Shop:
+    description: "Shop command."
+  Set2XSell:
+    description: "Set 2x sell."
+  SetAutoSellSack:
+    description: "Set 2x sell."
+
+  addFarmCoins:
+    description: "Adds farm coins to player balance."
+  Activate:
+    description: "Activates teleportation device."
+  Gmc:
+    description: "Set Gamemode to creative."
+  Gms:
+    description: "set Gamemode to survival."
+  Gma:
+    description: "set Gamemode to adventure."
+  Gmsp:
+    description: "set Gamemode to spectator"
+  Discord:
+    description: "discord link"
+  Line:
+    description: "drawline"
